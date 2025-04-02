@@ -38,7 +38,7 @@ const About = () => {
           </div>
         </div>
 
-        <div className="card" onClick={() => window.open("https://www.linkedin.com/in/soham-jain-241579245/")}>
+        <div className="card" onClick={() => window.open("#")}>
           <div className="thumbnail">
             <img src="/pic3.png" className="thumbnail-img" />
           </div>
@@ -48,7 +48,7 @@ const About = () => {
           </div>
         </div>
 
-        <div className="card" onClick={() => window.open("https://www.linkedin.com/in/soham-jain-241579245/")}>
+        <div className="card" onClick={() => window.open("#")}>
           <div className="thumbnail">
             <img src="/pic4.jpg" className="thumbnail-img" />
           </div>
@@ -68,7 +68,7 @@ const About = () => {
           </div>
         </div>
 
-        <div className="card" onClick={() => window.open("https://www.linkedin.com/in/soham-jain-241579245/")}>
+        <div className="card" onClick={() => window.open("#")}>
           <div className="thumbnail">
             <img src="/pic6.jpg" className="thumbnail-img" />
           </div>
