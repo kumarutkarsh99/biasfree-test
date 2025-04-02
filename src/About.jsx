@@ -5,15 +5,15 @@ const About = () => {
     <div className="about-container pb-4">
 
         <div className='about-text mx-4 my-3'>
-            <p className='text-gradient-1 pt-3'>At CodeFathers</p>
+            <p className='text-gradient-1 pt-3'>At CodeManiacs</p>
             <p className='text-gradient-2'>We Innovate Together</p>
             <p className='description-about'>
-            CodeFathers is a forward-thinking collective of skilled developers, machine learning specialists, and visionary problem solvers dedicated to crafting state-of-the-art technological solutions. We thrive on innovation, collaboration, and the relentless pursuit of excellence, continuously pushing the boundaries of what technology can achieve. Our team is driven by a shared passion for creating software that not only meets current industry standards but also anticipates the future needs of businesses and users alike. With expertise spanning across web development, artificial intelligence, and scalable system architectures, we design and develop solutions that are efficient, intuitive, and adaptable. From building seamless web applications and intelligent AI-driven systems to engineering high-performance platforms, our work is guided by a commitment to quality, performance, and user-centric design. We believe that great technology is not just about writing code—it’s about solving real-world problems and creating meaningful experiences. We are not just building software; we are shaping the future of technology, one solution at a time.
+            CodeManiacs is a forward-thinking collective of skilled developers, machine learning specialists, and visionary problem solvers dedicated to crafting state-of-the-art technological solutions. We thrive on innovation, collaboration, and the relentless pursuit of excellence, continuously pushing the boundaries of what technology can achieve. Our team is driven by a shared passion for creating software that not only meets current industry standards but also anticipates the future needs of businesses and users alike. With expertise spanning across web development, artificial intelligence, and scalable system architectures, we design and develop solutions that are efficient, intuitive, and adaptable. From building seamless web applications and intelligent AI-driven systems to engineering high-performance platforms, our work is guided by a commitment to quality, performance, and user-centric design. We believe that great technology is not just about writing code—it’s about solving real-world problems and creating meaningful experiences. We are not just building software; we are shaping the future of technology, one solution at a time.
             </p>
         </div>
 
         <div className="title mb-4">
-            <h2>Team CodeFathers</h2>
+            <h2>Team CodeManiacs</h2>
         </div>
 
         <div className="cards-container">
@@ -54,7 +54,7 @@ const About = () => {
           </div>
           <div className="card-body">
                 <h4>Anshul</h4>
-                <h6>Web Developer</h6>
+                <h6>Researcher</h6>
           </div>
         </div>
 
@@ -64,7 +64,7 @@ const About = () => {
           </div>
           <div className="card-body">
                 <h4>Piyush Toraskar</h4>
-                <h6>Machine Learning Engineer</h6>
+                <h6>Researcher</h6>
           </div>
         </div>
 
@@ -74,7 +74,7 @@ const About = () => {
           </div>
           <div className="card-body">
                 <h4>Rajat Mahore</h4>
-                <h6>Machine Learning Engineer</h6>
+                <h6>Researcher</h6>
           </div>
         </div>
         
